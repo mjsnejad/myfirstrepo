@@ -1,2 +1,2 @@
 
-print("mj gets stronger")
+print("mj gets stronger eyvallah")
