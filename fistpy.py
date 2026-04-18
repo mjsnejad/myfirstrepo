@@ -1,0 +1,2 @@
+
+print("mj gets stronger")
